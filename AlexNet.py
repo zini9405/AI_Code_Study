@@ -43,7 +43,7 @@ class Alexnet(nn.Module):
 
   def forward(self, x):
     x = self.feature_extractor(x) # input = (B, 3, 227, 227) / output = (B, 256, 6, 6)
-    x = x.view(-1, 256 * 6 * 6) # x.shape = (B, 4096)
+    x = x.view(-1, 256 * 6 * 6) # x.shape = (B, 9216)
     x = self.classifier(x) # x.shape = (B, n_classes)
     x = F.softmax(x, dim = 1)
     return x
