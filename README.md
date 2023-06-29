@@ -5,4 +5,5 @@
 ## ☀︎ ImageNet Classification with Deep Convolutional Neural Networks → AlexNet
 <img width="735" alt="스크린샷 2023-06-26 오후 6 36 25" src="https://github.com/zini9405/AI_Code_Study/assets/65759847/2072d2dc-42b6-4264-8113-036e9350f08d">
 
-
+## ☀︎ VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION → VGGNet
+<img width="631" alt="스크린샷 2023-06-29 오후 8 33 11" src="https://github.com/zini9405/AI_Code_Study/assets/65759847/943b4a0b-1eb6-4185-9b8a-60f64c3d9279">
