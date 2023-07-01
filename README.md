@@ -9,4 +9,4 @@
 <img width="631" alt="스크린샷 2023-06-29 오후 8 33 11" src="https://github.com/zini9405/AI_Code_Study/assets/65759847/943b4a0b-1eb6-4185-9b8a-60f64c3d9279">
 
 ## ☀︎ Going Deeper with Convolutions → GoogLeNet
-<img width="212" alt="스크린샷 2023-07-01 오후 8 47 57" src="https://github.com/zini9405/AI_Code_Study/assets/65759847/59a8e9d5-1488-4bf5-8568-4cc69d433df8">
+<img width="893" alt="스크린샷 2023-07-01 오후 8 47 57" src="https://github.com/zini9405/AI_Code_Study/assets/65759847/08c64111-db43-4de6-a74d-6ed0998bd4c2">
