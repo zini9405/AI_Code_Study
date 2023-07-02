@@ -25,7 +25,6 @@ class LeNet_5(nn.Module):
     x = self.feature_extractor(x) # input = (B, 1, 32, 32) / output = (B, 120, 1, 1)
     x = x.view(-1, 120) # x.shape = (B, 120)
     x = self.classifier(x) # x.shape = (B, n_classes)
-    x = F.softmax(x, dim = 1)
     return x
 
 model = LeNet_5(channels = 1, n_classes = 10) # MNIST dataset
