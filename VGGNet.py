@@ -28,7 +28,6 @@ class VGGNet(nn.Module):
         x = self.feature_extractor(x) # input = (B, 3, 224, 224) / output = (B, 512, 7, 7)
         x = x.view(-1, 512 * 7 * 7) # x.shape = (B, 25088)
         x = self.classifier(x) # x.shape = (B, n_classes)
-        x = F.softmax(x, dim = 1)
         return x
     
     def vgg_architecture(self, architecture):
