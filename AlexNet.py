@@ -45,7 +45,6 @@ class Alexnet(nn.Module):
     x = self.feature_extractor(x) # input = (B, 3, 227, 227) / output = (B, 256, 6, 6)
     x = x.view(-1, 256 * 6 * 6) # x.shape = (B, 9216)
     x = self.classifier(x) # x.shape = (B, n_classes)
-    x = F.softmax(x, dim = 1)
     return x
 
 model = AlexNet(channels = 3, n_classes = 1000) # ImageNet dataset
