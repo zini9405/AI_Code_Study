@@ -13,3 +13,7 @@
 
 ## ☀︎ Deep Residual Learning for Image Recognition → ResNet
 <img width="659" alt="스크린샷 2023-09-27 오후 10 52 24" src="https://github.com/zini9405/AI_Code_Study/assets/65759847/3e9bd515-5cab-4650-be1e-6e7d5f81cd11">                    <img width="241" alt="스크린샷 2023-09-27 오후 10 44 58" src="https://github.com/zini9405/AI_Code_Study/assets/65759847/1befb033-1b90-4e16-9279-391aef964360"> 
+
+## ☀︎ Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning → Inception-v4, Inception-ResNet
+<img width="290" alt="스크린샷 2023-10-01 오후 11 15 59" src="https://github.com/zini9405/AI_Code_Study/assets/65759847/85bbbc90-47ab-45eb-a0a3-fabb4923849d">
+<img width="205" alt="스크린샷 2023-10-02 오전 12 05 10" src="https://github.com/zini9405/AI_Code_Study/assets/65759847/0487020b-3caa-4461-bb22-e2fa0eb2e687">
